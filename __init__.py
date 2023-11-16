@@ -1,0 +1,1 @@
+KEY = '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'
